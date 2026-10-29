@@ -1,5 +1,5 @@
 # texture-packs
-A collection of my texture packs for 1.21. All of them are edits of original packs, with custom sounds, better textures, and nofire.
+A collection of my texture packs for 1.21. All of them are edits/mashups of original packs, with custom sounds, better textures from other packs, and nofire.
 
 
 Credits: 
